@@ -1,0 +1,7 @@
+/Users/zhang/Downloads/ejemplos-api-dotnet/TareasApi/bin/Release/net10.0/publish/TareasApi
+/Users/zhang/Downloads/ejemplos-api-dotnet/TareasApi/bin/Release/net10.0/publish/TareasApi.dll
+/Users/zhang/Downloads/ejemplos-api-dotnet/TareasApi/bin/Release/net10.0/publish/TareasApi.deps.json
+/Users/zhang/Downloads/ejemplos-api-dotnet/TareasApi/bin/Release/net10.0/publish/TareasApi.runtimeconfig.json
+/Users/zhang/Downloads/ejemplos-api-dotnet/TareasApi/bin/Release/net10.0/publish/TareasApi.pdb
+/Users/zhang/Downloads/ejemplos-api-dotnet/TareasApi/bin/Release/net10.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/zhang/Downloads/ejemplos-api-dotnet/TareasApi/bin/Release/net10.0/publish/Microsoft.OpenApi.dll
