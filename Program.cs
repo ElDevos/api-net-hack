@@ -13,7 +13,7 @@ app.MapOpenApi();
 var tareas = new List<Tarea>
 {
     new(1, "Crear la VM en Azure", true),
-    new(2, "Desplegar la API en App Service", false)
+    new(2, "Desplegar la API en App Service by David Zhang", false)
 };
 var siguienteId = 3;
 
